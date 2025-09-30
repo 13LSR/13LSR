@@ -32,7 +32,7 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/13LSR"><img src="https://img.shields.io/badge/GitHub-13LSR-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-北野阿蓝
+    <a href="https://space.bilibili.com/3494366800776018"><img src="https://img.shields.io/badge/哔哩哔哩-北野阿蓝
 -pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/13LSR"><img src="https://komarev.com/ghpvc/?username=13LSR&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
